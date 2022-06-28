@@ -33,6 +33,7 @@ header {
   flex-direction: column;
   width: 100vw;
   height: 120px;
+  align-items: center;
   background-color: var(--dark);
 }
 
